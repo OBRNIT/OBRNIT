@@ -1,4 +1,12 @@
-### Hi there 👋
+### OBRNIT has 392 classes, 44 relations, 52 attributes, and 15 individuals. The current version of OBRNIT is available at https://github.com/OBRNIT/OBRNIT. 
+
+Paper: ONTOLOGY FOR BIM-BASED ROBOTIC NAVIGATION AND INSPECTION TASKS
+
+Ph.D. Candidate, Concordia University, Department of Building, Civil & Environmental Engineering, Canada, E-mail: f_bahrei@encs.concordia.ca
+Chief Machine Learning Engineer, Skullscan Technologies Inc., Canada, E-mail: majid@skullscan.com
+Ph.D., Concordia University, Concordia Institute for Information Systems Engineering, Canada, E-mail: hmat1976@gmail.com
+Professor, Concordia University, Concordia Institute for Information Systems Engineering, Canada, E-mail: amin.hammad@concordia.ca
+
 
 <!--
 **OBRNIT/OBRNIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
