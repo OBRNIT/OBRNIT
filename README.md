@@ -1,4 +1,4 @@
-### OBRNIT has 392 classes, 44 relations, 52 attributes, and 15 individuals. The current version of OBRNIT is available at hhttps://github.com/OBRNIT/OBRNIT/blob/main/OBRNIT.owl. 
+### OBRNIT has 392 classes, 44 relations, 52 attributes, and 15 individuals. The current version of OBRNIT is available at https://github.com/OBRNIT/OBRNIT/blob/main/OBRNIT.owl. 
 
 Paper: ONTOLOGY FOR BIM-BASED ROBOTIC NAVIGATION AND INSPECTION TASKS
 
