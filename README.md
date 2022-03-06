@@ -1,7 +1,7 @@
 ### PAPER: ONTOLOGY FOR BIM-BASED ROBOTIC NAVIGATION AND INSPECTION TASKS
 
 OBRNIT covers four main groups of concepts including: (1) robot concepts, (2) building concepts, (3) navigation task concepts, and (4) inspection task concepts. <br />
-Cureent version of OBRNIT has 392 classes, 44 relations, 52 attributes, and 15 individuals. <br />
+OBRNIT has 392 classes, 44 relations, 52 attributes, and 15 individuals. <br />
 The current version of OBRNIT is available at https://github.com/OBRNIT/OBRNIT/blob/main/OBRNIT.owl. 
 
 Auyhors: <br />
