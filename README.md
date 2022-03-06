@@ -1,3 +1,4 @@
+(https://raw.githubusercontent.com/OBRNIT/OBRNIT/main/Files/Host/OBRNIT.png)
 ### PAPER: ONTOLOGY FOR BIM-BASED ROBOTIC NAVIGATION AND INSPECTION TASKS
 
 OBRNIT covers four main groups of concepts including: (1) robot concepts, (2) building concepts, (3) navigation task concepts, and (4) inspection task concepts. <br />
