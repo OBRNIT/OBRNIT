@@ -4,7 +4,7 @@ OBRNIT covers four main groups of concepts including: (1) robot concepts, (2) bu
 OBRNIT has 392 classes, 44 relations, 52 attributes, and 15 individuals. <br />
 The current version of OBRNIT is available at https://github.com/OBRNIT/OBRNIT/blob/main/OBRNIT.owl. 
 
-Auyhors: <br />
+Authors: <br />
 Ph.D. Candidate, Concordia University, Department of Building, Civil & Environmental Engineering, Canada, E-mail: f_bahrei@encs.concordia.ca <br />
 Chief Machine Learning Engineer, Skullscan Technologies Inc., Canada, E-mail: majid@skullscan.com <br />
 Ph.D., Concordia University, Concordia Institute for Information Systems Engineering, Canada, E-mail: hmat1976@gmail.com <br />
