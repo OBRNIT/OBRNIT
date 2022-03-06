@@ -1,13 +1,13 @@
 ### PAPER: ONTOLOGY FOR BIM-BASED ROBOTIC NAVIGATION AND INSPECTION TASKS
 
-OBRNIT has 392 classes, 44 relations, 52 attributes, and 15 individuals. 
+OBRNIT has 392 classes, 44 relations, 52 attributes, and 15 individuals. <br />
 The current version of OBRNIT is available at https://github.com/OBRNIT/OBRNIT/blob/main/OBRNIT.owl. 
 
-Auyhors:
-Ph.D. Candidate, Concordia University, Department of Building, Civil & Environmental Engineering, Canada, E-mail: f_bahrei@encs.concordia.ca
-Chief Machine Learning Engineer, Skullscan Technologies Inc., Canada, E-mail: majid@skullscan.com
-Ph.D., Concordia University, Concordia Institute for Information Systems Engineering, Canada, E-mail: hmat1976@gmail.com
-Professor, Concordia University, Concordia Institute for Information Systems Engineering, Canada, E-mail: amin.hammad@concordia.ca
+Auyhors: <br />
+Ph.D. Candidate, Concordia University, Department of Building, Civil & Environmental Engineering, Canada, E-mail: f_bahrei@encs.concordia.ca <br />
+Chief Machine Learning Engineer, Skullscan Technologies Inc., Canada, E-mail: majid@skullscan.com <br />
+Ph.D., Concordia University, Concordia Institute for Information Systems Engineering, Canada, E-mail: hmat1976@gmail.com <br />
+Professor, Concordia University, Concordia Institute for Information Systems Engineering, Canada, E-mail: amin.hammad@concordia.ca <br />
 
 
 <!--
