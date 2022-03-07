@@ -4,8 +4,8 @@
 
 OBRNIT covers four main groups of concepts including: (1) robot concepts, (2) building concepts, (3) navigation task concepts, and (4) inspection task concepts. <br />
 OBRNIT has 392 classes, 44 relations, 52 attributes, and 15 individuals. <br />
-OntologyIRI: https://www.obrnit.info/obrnitfiles/OBRNIT. <br />
-The current version of OBRNIT is available at https://github.com/OBRNIT/OBRNIT/blob/main/OBRNIT.owl. 
+OntologyIRI: https://www.obrnit.info/obrnitfiles/OBRNIT <br />
+The current version of OBRNIT is available at https://github.com/OBRNIT/OBRNIT/blob/main/OBRNIT.owl
 
 Authors: <br />
 Ph.D. Candidate, Concordia University, Department of Building, Civil & Environmental Engineering, Canada, E-mail: f_bahrei@encs.concordia.ca <br />
