@@ -14,7 +14,8 @@ Chief Machine Learning Engineer, Skullscan Technologies Inc., Canada, E-mail: ma
 Ph.D., Concordia University, Concordia Institute for Information Systems Engineering, Canada, E-mail: hmat1976@gmail.com <br />
 Professor, Concordia University, Concordia Institute for Information Systems Engineering, Canada, E-mail: amin.hammad@concordia.ca <br />
 
-
+Conference Paper:
+Bahreini, F., and Hammad, A., “Towards an Ontology for BIM-based Robotic Navigation and Inspection Tasks”, In proceedings of the 38th International Symposium on Automation and Robotics in Construction, Dubai, UAE, 2021.
 <!--
 **OBRNIT/OBRNIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
