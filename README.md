@@ -16,8 +16,6 @@ Professor, Concordia University, Concordia Institute for Information Systems Eng
 
 Conference Paper: https://www.iaarc.org/publications/2021_proceedings_of_the_38th_isarc/towards_an_ontology_for_bim_based_robotic_navigation_and_inspection_tasks.html <br />
 
-
-<meta name="google-site-verification" content="Nljg_ZFrcBJ_31mnWOZyGjkBYIdMUXIoeYYrpUBO3e0" />
 <!--
 **OBRNIT/OBRNIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
